@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Getting Started on Project Baratha</title>
+    <link>http://localhost:1313/getting-started/</link>
+    <description>Recent content in Getting Started on Project Baratha</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 08 Dec 2018 15:26:15 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/getting-started/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/getting-started/about-site/</link>
+      <pubDate>Fri, 23 Nov 2018 15:26:15 +0000</pubDate>
+      <guid>http://localhost:1313/getting-started/about-site/</guid>
+      <description>this is about the website </description>
+    </item>
+  </channel>
+</rss>

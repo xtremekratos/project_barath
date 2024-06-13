@@ -2,10 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:59333/categories/</loc>
+    <loc>http://localhost:1313/data/catogery1/chapter1/</loc>
+    <lastmod>2018-12-08T15:26:15+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:59333/</loc>
+    <loc>http://localhost:1313/getting-started/about-site/</loc>
+    <lastmod>2018-12-08T15:26:15+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:59333/tags/</loc>
+    <loc>http://localhost:1313/data/catogery1/</loc>
+    <lastmod>2018-12-08T15:26:15+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/data/</loc>
+    <lastmod>2018-12-08T15:26:15+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/getting-started/</loc>
+    <lastmod>2018-12-08T15:26:15+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2019-10-26T15:26:15+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
   </url>
 </urlset>
