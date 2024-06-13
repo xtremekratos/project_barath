@@ -1,4 +1,26 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Project Baratha'
 theme = 'hugo-theme-techdoc'
+
+[params]
+    description = "Welcome to Project Baratha"
+
+    custom_font_color = ""
+    custom_background_color = "#999AC6"
+    
+    menu_style = "slide-menu"
+
+    # Date format
+    dateformat = "" # default "2 Jan 2006"
+
+
+# Global menu section
+# See https://gohugo.io/content-management/menus/
+[menu]
+    [[menu.main]]
+        name = "Home"
+        url = "/"
+        weight = 1
+        identifier = 'home'
+        pre = "<i class='fa fa-heart'></i>&nbsp;"
